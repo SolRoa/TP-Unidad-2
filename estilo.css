@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Sigmar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Sigmar&display=swap');
+
+h1{
+    font-family: 'Sigmar', cursive;
+    font-size: 90px;
+}
+
+p{
+    color: rgb(47, 67, 67);
+    font-family: 'Bruno Ace SC', cursive;
+}
+
+a{
+    color: rgb(125, 158, 241);
+    font-family: 'Bruno Ace SC', cursive;
+}
+
+section{
+    font-family: Arial, Helvetica, sans-serif;
+}
